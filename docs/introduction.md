@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-permalink: /introduction/
+permalink: /
 nav_order: 10
 published: true
 ---

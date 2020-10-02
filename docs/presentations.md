@@ -1,7 +1,7 @@
 ---
-title: "presentations"
+title: "Presentations"
 permalink: /presentations/
-nav_order: 5
+nav_order: 40
 published: true
 ---
 
