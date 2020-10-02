@@ -1,10 +1,10 @@
 ---
-title: "Part 3"
-permalink: /part3/
-nav_order: 4
+title: "Accessibility"
+permalink: /accessibility/
+nav_order: 30
 published: true
 ---
 
-## Part 3
+# Accessibility
 
-Here will be more.
+In this section we will discuss accessibility, including the accessibility regulation of EU.

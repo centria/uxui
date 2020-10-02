@@ -1,10 +1,10 @@
 ---
-title: "Part 1"
-permalink: /part1/
-nav_order: 3
+title: "Introduction"
+permalink: /introduction/
+nav_order: 10
 published: true
 ---
 
-## Part 1
+# Introduction
 
-Here is another chapter.
+On this session we will have the introduction to the course pracitalities, as well as the basic terminology.

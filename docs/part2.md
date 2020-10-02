@@ -1,10 +1,10 @@
 ---
-title: "Part 2"
-permalink: /part2/
-nav_order: 3
+title: "Visiting lecturer"
+permalink: /visitor/
+nav_order: 20
 published: true
 ---
 
-## Part 2
+# Visiting lecturer
 
-Here will be more.
+On this session, we will have a visiting lecturer from [Perfektio](https://www.perfektio.fi/fi), Olli Savisaari. He will discuss in greater detail what are UX and UI, and give some real examples.
