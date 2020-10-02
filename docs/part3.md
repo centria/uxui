@@ -7,4 +7,4 @@ published: true
 
 # Accessibility
 
-In this section we will discuss accessibility, including the accessibility regulation of EU.
+In this section we will discuss accessibility, including the accessibility policy of EU. [https://europa.eu/european-union/abouteuropa/accessibility_en](https://europa.eu/european-union/abouteuropa/accessibility_en)
