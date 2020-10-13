@@ -25,6 +25,30 @@ Sessions are:
 
 If you have any questions, do ask.
 
+## Course task and presentation
+
+At the end of the course, each student will give a presentation of an object, service, website, application, etc, for which they have designed UX & UI. 
+* The item in question can be an existing one, for example this web page. 
+* The presentation should show the process of design, as well as the results. 
+* The presentation should be about 10 to 15 minutes, and should include pictures of your design choices.
+
+### Example
+
+For example, one could make a presentation about a washing machines. What are the experience and the user interface like at the moment? 
+* The opening, is it large enough? 
+* Does the machine make annoying sounds? 
+* Could a blind person use it? 
+
+For me, the experience is always tedious, as the placement of the machine at home is not optimal. I have to be crouching to load the machine. It makes annoying beeps, which then again could be helpful indicators to a blind person. The buttons are a touch screen, but it is kind of hard to use.
+
+* How would I improve it?
+* If I were to design it, would I make the same choices?
+
+I think I am quite happy with the design, but I would make the touch buttons a bit elevated, or at least have some sort of separation between them. It is quite easy to press the wrong button. Also, the touch sensor is not that great... And so on.
+
+![Washing machine on white background](https://github.com/centria/uxui/raw/master/assets/images/washingmachine.jpg)  
+
+
 ## UX and UI
 
 *UX* and *UI* are often discussed in unison as they are quite related, but what are they exactly, and why is there two terms?
