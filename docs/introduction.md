@@ -49,19 +49,19 @@ I think I am quite happy with the design, but I would make the touch buttons a b
 ![Washing machine on white background](https://github.com/centria/uxui/raw/master/assets/images/washingmachine.jpg)  
 
 
-## UX and UI
+# UX and UI
 
 *UX* and *UI* are often discussed in unison as they are quite related, but what are they exactly, and why is there two terms?
 
-### UX
+## UX
 
 UX might be unfamiliar, and stands for *User *eXperience*. As the name suggests, UX is anything that can be interacted with, and the experience (or feeling) caused by it. For example, how does it feel to buy a movie ticket or a train ticket? How annoying is the pop-up for cookies on a website?
 
-### UI
+## UI
 
 UI is already somewhat a familiar term, and is of course an abbreviation of *User Interface*. UI can be seen as anything the user sees, touches, interacts with... and so on, to use the software or any item we are designing. It could be said that if something can be interacted with, it has an interface the user can use. For example, how big buttons should we use on our application? Where should they be situated?
 
-### Reading
+## Reading
 
 Read these articles and blog posts and watch the videos before the visiting lecturer session:
 * [https://www.usertesting.com/blog/ui-vs-ux](https://www.usertesting.com/blog/ui-vs-ux)
