@@ -11,7 +11,14 @@ On this session we will have the introduction to the course pracitalities, as we
 
 ## Course structure
 
-The course consists of four sessions, of which this page acts as the first one. Due to the sickness leave of the teacher, the first session is only in written form. The second session will be online, as the visiting lecturer resides in Helsinki. Depending on the corona status at that point, a joint session at school might still be arranged. Third session is a normal lecture, where we shall discuss accessibility, as well as the course task will be discussed in greater detail. The fourth and final session is reserved for presentations of the course task.
+The course consists of four sessions, of which this page acts as the first one. 
+* Due to the sickness leave of the teacher, the first session is only in written form, i.e. this page.
+* The second session will be online, as the visiting lecturer resides in Helsinki. 
+  * Depending on the corona status at that point, a joint session at school might still be arranged. 
+* Third session is a normal lecture, where we shall discuss accessibility, as well as the course task will be discussed in greater detail. 
+* The fourth and final session is reserved for presentations of the course task.
+
+The sessions are held on campus if possible, but the corona instructions are taken into consideration. All the sessions will be recorded.
 
 ## Course practicalities
 
