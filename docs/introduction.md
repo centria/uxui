@@ -46,7 +46,7 @@ For me, the experience is always tedious, as the placement of the machine at hom
 
 I think I am quite happy with the design, but I would make the touch buttons a bit elevated, or at least have some sort of separation between them. It is quite easy to press the wrong button. Also, the touch sensor is not that great... And so on.
 
-![Washing machine on white background](https://github.com/centria/uxui/raw/master/assets/images/washingmachine.jpg)  
+![Washing machine on white background](https://raw.githubusercontent.com/centria/uxui/master/images/washingmachine.jpg)  
 
 
 # UX and UI
