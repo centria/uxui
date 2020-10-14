@@ -78,3 +78,4 @@ Read these articles and blog posts and watch the videos before the visiting lect
 * [https://www.youtube.com/watch?v=RlQEoJaLQRA](https://www.youtube.com/watch?v=RlQEoJaLQRA)
 
 
+Remember, blog posts are usually opinions of their writers, so reading from multiple sources helps to form your own perspective and find a more whole picture.
