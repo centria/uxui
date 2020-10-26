@@ -94,6 +94,8 @@ We will not be demonstrating these tools or their functionality during the lesso
 
 There are of course third party options as well. We will now be testing out one such option, which can be installed for Windows. You can find this tool from [https://www.nvaccess.org/](https://www.nvaccess.org/)
 
+You can find more screen readers from here: [https://cccaccessibility.org/assistive-tech/screen-readers](https://cccaccessibility.org/assistive-tech/screen-readers)
+
 Even though we try to make our applications as accessible as possible, there might still be some features we forget to take into consideration. Next let's practice this in action.
 
 ## Voluntary exercises
