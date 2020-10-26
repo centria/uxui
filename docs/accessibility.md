@@ -80,7 +80,19 @@ Beside these principles, there are tips and tricks in the internet which make th
 
 ## Accessibility tools
 
-Screen readers
+There are multiple tools to make a site more accessible, as there are multiple things to consider. 
+
+For example, if you page contains infographics, the contrast between different colors needs to be large enough, so that color blind can read the graph as well. There are probably multiple options on how to implement this, but I prefer the following tool, originally designed for cartography: [https://colorbrewer2.org/](https://colorbrewer2.org/).
+
+Screen readers are tools which are meant for reading out loud the text and the elements from the web site. For them to be able to use your site properly, the components of the HTML have to be well defined. For Android and iOS, as well as macOS and Windows, there are screen readers built in, and you can activate them like follows.
+* For Android, follow these instructions: [https://support.google.com/accessibility/android/answer/6007100?hl=en](https://support.google.com/accessibility/android/answer/6007100?hl=en)
+* For iOS, follow these instructions: [https://support.apple.com/en-gb/guide/iphone/iph3e2e415f/ios](https://support.apple.com/en-gb/guide/iphone/iph3e2e415f/ios)
+* For macOS, follow these instructions: [https://support.apple.com/en-gb/guide/mac-help/mh40578/mac](https://support.apple.com/en-gb/guide/mac-help/mh40578/mac)
+* For Windows, follow these instructions: [https://support.microsoft.com/en-us/windows/hear-text-read-aloud-with-narrator-040f16c1-4632-b64e-110a-da4a0ac56917](https://support.microsoft.com/en-us/windows/hear-text-read-aloud-with-narrator-040f16c1-4632-b64e-110a-da4a0ac56917)
+
+We will not be demonstrating these tools or their functionality during the lesson, but you can test them out on your own time.
+
+There are of course third party options as well. We will now be testing out one such option, which can be installed for Windows. You can find this tool from [https://www.nvaccess.org/](https://www.nvaccess.org/)
 
 Even though we try to make our applications as accessible as possible, there might still be some features we forget to take into consideration. Next let's practice this in action.
 
