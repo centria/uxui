@@ -1,5 +1,5 @@
 ---
-title: "Accessibility and final task"
+title: "Accessibility"
 permalink: /accessibility/
 nav_order: 30
 published: true
@@ -37,7 +37,7 @@ The first guideline is the W3C Web Content Accessibility Guidelines, or WCAG. It
 
 You can find the WCAG from the following address: [https://www.w3.org/WAI/standards-guidelines/wcag/](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
-Another important guideline is the Web Accessibility Directive for European Union. It is meant to provide people with disabilities with better access to the websites and mobile apps of public services. 
+Another important guideline is the Web Accessibility Directive for European Union. It is meant to provide people with disabilities with better access to the websites and mobile apps of public services. The directive is based on the WCAG standard.
 
 The Directive
 
@@ -50,6 +50,33 @@ The Directive
 A quick guide to the directive, from which the list above has been quoted, can be found from here: [https://ec.europa.eu/digital-single-market/en/web-accessibility](https://ec.europa.eu/digital-single-market/en/web-accessibility)
 
 The directive is quite a long and hard read, but if you are interested in the legal side, you can find the full directive from the next link: [https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016L2102&from=EN](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016L2102&from=EN)
+
+
+## Accessibility principles
+
+To make your web page more accessible, there are a few principles you should follow. The headers of those principles are copied below, but you can find the complete list with details from here: [https://www.w3.org/WAI/fundamentals/accessibility-principles/](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
+
+* Perceivable information and user interface
+  * Text alternatives for non-text content
+  * Captions and other alternatives for multimedia
+  * Content can be presented in different ways
+  * Content is easier to see and hear
+* Operable user interface and navigation
+  * Functionality is available from a keyboard
+  * Users have enough time to read and use the content
+  * Content does not cause seizures and physical reactions
+  * Users can easily navigate, find content, and determine where they are
+  * Users can use different input modalities beyond keyboard
+* Understandable information and user interface
+  * Text is readable and understandable
+  * Content appears and operates in predictable ways
+  * Users are helped to avoid and correct mistakes
+* Robust content and reliable interpretation
+  * Content is compatible with current and future user tools
+
+Following these principles, our software is more accessible for people with disabilities, but also more usable for everyone. Try to remember these the next time you make a web site. 
+
+Beside these principles, there are tips and tricks in the internet which make the life easier. My favorite example at the moment is the fact about capitalizing hashtags. More info can be found behind this link: [https://www.boia.org/blog/make-your-hashtags-accessible](https://www.boia.org/blog/make-your-hashtags-accessible).
 
 ## Accessibility tools
 
