@@ -71,11 +71,11 @@ UI is already somewhat a familiar term, and is of course an abbreviation of *Use
 ## Reading
 
 Read these articles and blog posts and watch the videos before the visiting lecturer session:
-* [https://www.usertesting.com/blog/ui-vs-ux](https://www.usertesting.com/blog/ui-vs-ux)
-* [https://www.interaction-design.org/literature/topics/ux-design](https://www.interaction-design.org/literature/topics/ux-design)
-* [https://www.interaction-design.org/literature/topics/ui-design](https://www.interaction-design.org/literature/topics/ui-design)
-* [https://www.youtube.com/watch?v=9BdtGjoIN4E](https://www.youtube.com/watch?v=9BdtGjoIN4E)
-* [https://www.youtube.com/watch?v=RlQEoJaLQRA](https://www.youtube.com/watch?v=RlQEoJaLQRA)
+* [https://www.usertesting.com/blog/ui-vs-ux](https://www.usertesting.com/blog/ui-vs-ux){:target="_blank"}
+* [https://www.interaction-design.org/literature/topics/ux-design](https://www.interaction-design.org/literature/topics/ux-design){:target="_blank"}
+* [https://www.interaction-design.org/literature/topics/ui-design](https://www.interaction-design.org/literature/topics/ui-design){:target="_blank"}
+* [https://www.youtube.com/watch?v=9BdtGjoIN4E](https://www.youtube.com/watch?v=9BdtGjoIN4E){:target="_blank"}
+* [https://www.youtube.com/watch?v=RlQEoJaLQRA](https://www.youtube.com/watch?v=RlQEoJaLQRA){:target="_blank"}
 
 
 Remember, blog posts are usually opinions of their writers, so reading from multiple sources helps to form your own perspective and find a more whole picture.

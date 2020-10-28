@@ -33,7 +33,7 @@ I think I am quite happy with the design, but I would make the touch buttons a b
 
 ![Washing machine on white background](https://raw.githubusercontent.com/centria/uxui/master/images/washingmachine.jpg)  
 
-Let us expand this example to meet the criteria for the presentation. The example presentation created from this can be found from Microsoft Streams, and you need Centria login to access it. A short link to the example is here: [https://bit.ly/uxui-washer](https://bit.ly/uxui-washer)
+Let us expand this example to meet the criteria for the presentation. The example presentation created from this can be found from Microsoft Streams, and you need Centria login to access it. A short link to the example is here: [https://bit.ly/uxui-washer](https://bit.ly/uxui-washer){:target="_blank"}
 
 ## Giving the presentation
 
